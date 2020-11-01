@@ -2,6 +2,8 @@
 
 It's [wrk2](https://github.com/giltene/wrk2) as a Docker image.
 
+[View on Docker Hub](https://hub.docker.com/r/hodgesmr/wrk2)
+
 ## Just tell me what to do.
 
 You probably want to throw traffic at something you've deployed somewhere, but if you've got a service running on your host port 8000, you can do something like:
