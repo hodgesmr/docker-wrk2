@@ -28,5 +28,4 @@ build:
 
 .EXPORT_ALL_VARIABLES:
 release:
-	docker tag ${ORG}/${NAME}:${VERSION}
 	docker push ${ORG}/${NAME}:${VERSION}
